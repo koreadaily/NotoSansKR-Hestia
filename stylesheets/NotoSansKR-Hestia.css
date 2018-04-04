@@ -8,7 +8,6 @@
     url(https://rawgit.com/koreadaily/NotoSansKR-Hestia/master/fonts/woff/NotoSansKR-Thin-Hestia.woff) format('woff'),
     url(https://rawgit.com/koreadaily/NotoSansKR-Hestia/master/fonts/otf/NotoSansKR-Thin-Hestia.otf) format('opentype');
 } 
-
 @font-face {
     font-family: 'Noto Sans Korean';
     font-style: normal;
@@ -19,7 +18,6 @@
     url(https://rawgit.com/koreadaily/NotoSansKR-Hestia/master/fonts/woff/NotoSansKR-Light-Hestia.woff) format('woff'),
     url(https://rawgit.com/koreadaily/NotoSansKR-Hestia/master/fonts/otf/NotoSansKR-Light-Hestia.otf) format('opentype');
 }
-
 @font-face {
     font-family: 'Noto Sans Korean';
     font-style: normal;
